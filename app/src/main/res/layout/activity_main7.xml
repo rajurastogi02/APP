@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start"
+    tools:context=".MainActivity7">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="28dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="......PLAN FOR YOU......"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textAlignment="center"
+            android:paddingBottom="30sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="After Analysing Your Report , Statastics Approaches you to Have Plan Like......   "
+            android:textSize="30sp"
+            android:paddingBottom="30sp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:paddingBottom="10sp"
+            android:text="Monthly Plan......"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:paddingBottom="20sp"
+            android:text="Exercise 30min every day, Avoid Junk Eat Healthy, Min 8hr Sleep, Reduce Social Media Pressence, Have an Relaxation Nap, Meditate, Practice Gratitude, Nature Walk, Avoid Being Alone."/>
+
+    </LinearLayout>
+</LinearLayout>
