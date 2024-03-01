@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/start1"
-    tools:context=".MainActivity">
+    tools:context=".SplashActivity">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
